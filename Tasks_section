@@ -5,3 +5,32 @@ Jan 8
 Python installation
 Hackerrank account creation
 Github repository creation
+
+============================
+Jan 15
+===========================
+
+
+#Task1
+
+Data structure conversion
+
+int ===> float, bool, string
+float ==> int, bool, string
+bool ==> int, float, string
+string ===> int. float, bool
+
+#Task2:
+
+What are the difference between python2 and python3
+
+
+#Task3:
+
+Advantages and Disadvantages of interpreter and compiler ? python ?
+
+#Task4:
+
+Study about input function in python
+
+
