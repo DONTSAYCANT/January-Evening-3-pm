@@ -43,6 +43,56 @@ Task1: (print output in int)
 write a program to calculate area of circle with radius (float) (collect using input function)
 write a program to calculate perimeter of the cricle with radius (float) (collect it through input function)
 
+Task2:
+
+String:  "Information*Technology"
+
+print(val[3:10])
+print(val[2:5])
+print(val[0:10])
+print(val[5:-5])
+print(val[2:8])
+print(val[:8])
+print(val[5:])
+print(val[8:12])
+print(val[:])
+print(val[12:5])
+
+print(val[3:10:1])
+print(val[3:10:2])
+print(val[3:10:3])
+print(val[5:-5:1])
+print(val[5:-5:2])
+print(val[5:-5:5])
+print(val[:8:4])
+print(val[5::3])
+print(val[::2])
+print(val[12:5:3])
+
+
+String:  "Python_Interpreter"
+
+print(val[3:10])
+print(val[2:5])
+print(val[0:10])
+print(val[5:-5])
+print(val[2:8])
+print(val[:8])
+print(val[5:])
+print(val[8:12])
+print(val[:])
+print(val[12:5])
+
+print(val[3:10:1])
+print(val[3:10:2])
+print(val[3:10:3])
+print(val[5:-5:1])
+print(val[5:-5:2])
+print(val[5:-5:5])
+print(val[:8:4])
+print(val[5::3])
+print(val[::2])
+print(val[12:5:3])
 
 
 
