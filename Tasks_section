@@ -186,4 +186,14 @@ print(a[3:-3:3])
 print(a[-5:-3:20])
 
 
+Write programs for th below string methods:
+
+#center rcenter
+
+#rjust ljust just
+https://www.w3schools.com/python/python_ref_string.asp
+
+
+
+#isalpha is numeric is lower
 
