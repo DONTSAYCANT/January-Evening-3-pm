@@ -445,7 +445,7 @@ Task4:
 #mark 0 to 100 otherwise invalid mark
 
 #50 + PASS otherwise FAIL
-#90 to 100 ===> A  ==> Even + Odd -
+#90 to 100 ===> A 
 #80 to 89 ===> B
 #70 to 79 ===> C
 #60 to 69 ===> D
@@ -454,15 +454,43 @@ Task4:
 #0 to 49 ===> FAIL
 
 
-#93 ===> A-
-#99 ===> A-
-#88 ====> B+
+#93 ===> A
+#99 ===> A
+#88 ====> B
 
 #78
 
 #VALID MARK (between 0 to 100)
 #PASS MARK ()
-#C+
+#C
+
+
+Task5:
+
+
+
+#mark calculation
+
+#collect physics / checmistry / mathematics mark from user
+#all the marks should be between 0 -200 ==> 
+#calculate aggregate = phy/4  + chem/4  + maths / 2
+
+#pass mark: 70
+
+
+
+aggregate > 190 :  First class
+    
+aggregate > 150 : second class
+    
+aggregate > 70 : Third class 
+    
+aggregate < 70 : Fail Try again
+    
+    
+#valid or invalid
+#Pass or Fail
+#Class 
 
 
 Pre study Loops:
