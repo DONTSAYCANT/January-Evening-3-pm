@@ -411,3 +411,66 @@ a = {1: [1,2,3,"python"], 2:{10:"hello",20:"welcome",40: "science"}, 99: {3,4,5,
 print(a)
 
 
+
+===========================
+Jan 29
+===========================
+
+If condition study pages:
+
+https://www.w3schools.com/python/gloss_python_if_statement.asp
+https://www.w3schools.com/python/gloss_python_else.asp
+
+#Task1
+
+#hackerrank Write a function
+
+#Task2
+
+#hackerrank Python If-Else
+
+#Task3
+
+#Fizz buzz
+#Get one number from user
+#5
+#Multiple of 3 ==> Fizz
+#Multiple of 5 ===> buzz
+#Multiple of 3 and 5 ===> Fizzbuzz
+#None ==> Invalid number
+
+Task4:
+
+#Get one mark from student
+#mark 0 to 100 otherwise invalid mark
+
+#50 + PASS otherwise FAIL
+#90 to 100 ===> A  ==> Even + Odd -
+#80 to 89 ===> B
+#70 to 79 ===> C
+#60 to 69 ===> D
+#50 to 59 ===> E
+
+#0 to 49 ===> FAIL
+
+
+#93 ===> A-
+#99 ===> A-
+#88 ====> B+
+
+#78
+
+#VALID MARK (between 0 to 100)
+#PASS MARK ()
+#C+
+
+
+Pre study Loops:
++++++++++++++++++++
+
+Study in detail about range function in python https://www.w3schools.com/python/ref_func_range.asp and other pages in google
+w3schools.com/python/python_for_loops.asp
+w3schools.com/python/python_for_loops.asp
+
+
+
