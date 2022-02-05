@@ -5,24 +5,25 @@ Python / programming basic (variable/datatype/Data strucutre) (completed)
 Writing basic pgms (completed)
 String Indexing and slicing (completed)
 String methods (Completed)
-Data structures in python (list/tuple/set/Dictionary) (Going on)
-Data structure method
-Conditional stmt
-Loops (while for )
-Functions in python
+Data structures in python (list/tuple/set/Dictionary) (completed)
+Data structure method (completed)
+Conditional stmt (completed)
+Loops (while for ) (completed)
+Functions in python (completed)
 
 Miniproject and project1 
 Test1 (50 marks) 
 
 Medium level (15 - 20 days)
 
-Anonymous functions
-Comprehensions 
-Modules in python 
-Collections module
-File handling 
+Modules in python  (completed)
+Anonymous functions (Feb 6)
+Comprehensions  (Feb 6)
+File handling (Feb 6)
+OS and sys module (Feb 6)
+Project introduction and Hackerrank program (Feb 12)
 Exception Handling  
-OS and sys module
+Collections module  
 Datetime module
 Regular expression
 itertools module
