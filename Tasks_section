@@ -618,7 +618,25 @@ Book marked program (score 220 points for attending test1)
 
 20 inbuilt functions: enumerate exec oct 
 
+===================
+Functions tasks
+===================
 
+#User Def functions
+Write function to concatenate three strings
+Write a function multiply three different integers and return a int
+Write a function to check a string is palindrom or not
+Write a function to return middle char of the string
+write a function to return whether middle character is vowel or not 
+check whether number is prime or no
+check whether number is armstrong number or no
+Find factorial of a number
+Find Fibnacci series
+Find factors of a number
+
+12: 1,2,3,4,6,12
+9: 1,3,9
+10: 1,2,5,10
 
 
 ==================================
