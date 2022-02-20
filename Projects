@@ -203,6 +203,9 @@ else:
     
 send scores in mail and whatsapp/mobile number
 
+https://realpython.com/python-send-email/
+https://www.tutorialspoint.com/python/python_sending_email.htm
+
 ===========================================================================================
 Project3: Resume parser and downloader (regex file handling)
 
