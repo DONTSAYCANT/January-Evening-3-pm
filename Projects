@@ -211,7 +211,7 @@ Project3: Resume parser and downloader (regex file handling)
 
 ==========================================================================================
 
-Collect one Resume from user
+Input: Collect one Resume from user
 
 Parse some details
 
@@ -242,7 +242,23 @@ ii) get a json file from user
 
 Json file ===>
 
+Send details through mail / message.
 
+==========================================================
 project4: wikipedia parser
+==================================================
+
+Libraries: web scrapping ()requests, urllib, beautiful soup, regex
+
+https://www.geeksforgeeks.org/how-to-extract-wikipedia-data-in-python/
+https://www.thepythoncode.com/article/access-wikipedia-python
+https://www.geeksforgeeks.org/web-scraping-from-wikipedia-using-python-a-complete-guide/
+
+Input: wiki page
+Output: Extract important info from wiki page and send it as mail
+
+================================
 
 project5: Automatic Wish sender
+
+======================================
